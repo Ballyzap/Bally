@@ -28,7 +28,7 @@ DB: List[User] = [
         Age= 18,
         Gender=Gender.Male,
         Roles=[Role.Admin],
-        Address="Lison",
+        Address="Lisbon",
         Country="Portugal"
     ),
     User(
